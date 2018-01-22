@@ -1,6 +1,7 @@
 Starter code from the Anagrams workshop, Applied CS with Android course: http://g.co/cswithandroid Version 1.0
 
-Implemented functions based on the provided UI. 
+Implemented functionalitiess based on the provided UI. 
 
 Still tiny bugs to fix:
 1. program wait too long
+2. Extensions
