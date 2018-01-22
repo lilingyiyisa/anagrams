@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/lingyili/.android/build-cache/43482de2b77c860c9a5d7f04a5854f15fc0247e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/lingyili/Desktop/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6dabb72632bfb37184bbc276f98e2b7c972324f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lingyili/Desktop/anagrams_starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/lingyili/Desktop/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_161c8b1d85e1cc75dcadd3430d53f5f649373e12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lingyili/.android/build-cache/b295990a4789c66df05bf5735883501a8670a6f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/lingyili/Desktop/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57ae717666d12107e30955e3d09fee85595424d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lingyili/.android/build-cache/2ef610579578e7ede5a0bf5c11d06a883b917afc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/lingyili/Desktop/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59b45143757775db7bb6c016d334e1d8a5f4af0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lingyili/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/lingyili/Desktop/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_3fe38b72ae57370aafa80bc0519a66e64dfd26d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lingyili/Desktop/anagrams_starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dbef30d9be7f8a282b33a9f112266e619613430b">
+        <dex dex="/Users/lingyili/Desktop/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5a302e8bb8f3a368a12c0fef1c16908f4224bab5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lingyili/.android/build-cache/43482de2b77c860c9a5d7f04a5854f15fc0247e6/output/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/lingyili/Desktop/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_a8e5653486e901620f78efaec7465176066456f7/classes.dex" />
+    </item>
+
+</items>
